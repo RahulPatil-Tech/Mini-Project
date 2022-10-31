@@ -104,7 +104,7 @@ body {
   align-items: center;
 }
 .box-form .right .remember-me--forget-password input {
-  margin: 0;
+  margin: 10px;
   margin-right: 7px;
   width: auto;
 }
